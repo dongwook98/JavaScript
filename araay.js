@@ -157,3 +157,4 @@ function CheckArrayElements (num) {
     }
 
     console.log(arrToString(arr))
+    
