@@ -36,7 +36,7 @@ console.log(age);
 console.log(occupation);
 console.log(pet);
 
-// Quiz
+// Quizㅋㅋㅋㅋ
 
 const prop = {
   name: 'Button',
